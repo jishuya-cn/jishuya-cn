@@ -1,7 +1,7 @@
 ## 嗨我是,楼兰
 
 - 🤔 博客：<a href="https://blog.csdn.net/loulansd" target="_blank">天涯各一方&的博客</a>
-- 👭 我的论坛：<a target="_blank" href="https://www.loulansd.com/blog">我的论坛--楼兰导航站--刚搭建不久</a>
+- 👭 我的论坛：<a target="_blank" href="https://www.loulansd.com/">我的论坛--楼兰导航站--刚搭建不久</a>
 
 ## 今年汇总 ✨
 
