@@ -1,6 +1,6 @@
 ## 嗨我是,jishuya
 
-- 👭 我的论坛：<a target="_blank" href="https://www.jishuya.cn/">我的论坛--楼兰导航站--刚搭建不久</a>
+- 👭 我的论坛：<a target="_blank" href="https://www.jishuya.cn/">我的技术鸭</a>
 
 ## 今年汇总 ✨
 
