@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://www.jishuya.cn](https://www.jishuya.cn)
 
-<h3 align="left">Connect with me:</h3> jishuya_zd@163.com
+<h3 align="left">Connect with me: jishuya_zd@163.com</h3>
 <p align="left">
 </p>
 
